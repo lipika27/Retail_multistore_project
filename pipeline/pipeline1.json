@@ -53,7 +53,7 @@
 				]
 			},
 			{
-				"name": "transaction_copy1",
+				"name": "product",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
