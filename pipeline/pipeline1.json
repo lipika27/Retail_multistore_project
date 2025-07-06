@@ -141,7 +141,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "AzureSqlTable3",
 						"type": "DatasetReference"
 					}
 				],
