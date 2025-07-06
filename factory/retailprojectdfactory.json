@@ -1,0 +1,9 @@
+{
+	"name": "retailprojectdfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "05337435-f98d-46d6-b037-2cf7829e2bdc",
+		"tenantId": "5f051a7d-93c5-4134-8a87-68ffaf8d4646"
+	}
+}
